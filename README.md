@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Rajendra Pathak and I am Full Stack Developer
-- 
-- 
+
 - 🔭 I’m currently working on my personal Project
 - 🌱 I’m currently learning microservicess
 - 👯 I’m looking to collaborate on javascript develoment projects.
