@@ -9,3 +9,6 @@
 - 😄 Pronouns:  he/him
 - ⚡ Fun fact: i have so much ideas...
 -->
+
+## Skills
+*computer
