@@ -10,12 +10,12 @@
 - ⚡ Fun fact: i have so much ideas...
 -->
 
-## Skills
+### Skills
 
-### HTML/CSS/JAVASCRIPT/MYSQL/NODEJS/EXPRESS/MONGODB/C#/JAVA
+- HTML/CSS/JAVASCRIPT/MYSQL/NODEJS/EXPRESS/MONGODB/C#/JAVA
 
-## CERTIFICATE
+### CERTIFICATE
 - JavaScript Algorithms and Data Structure Masterclass from Udemy.
-###  Web Development from Udemy.
-###  Virtual Software Engineering Internship from JP Morgan(InsideSherpa). 
-###  Rank – 1009 (FullStack Contest Certificate From TechGig.)
+-  Web Development from Udemy.
+- Virtual Software Engineering Internship from JP Morgan(InsideSherpa). 
+- Rank – 1009 (FullStack Contest Certificate From TechGig.)
