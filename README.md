@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my personal Project
 - 🌱 I’m currently learning microservicess
 - 👯 I’m looking to collaborate on javascript develoment projects.
-- 🤔 I’m looking for help with DSA
+- 🤔 I’m looking for help with my personal project.
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/rajendra-pathak-083131a0/)
 - 😄 Pronouns:  he/him
@@ -12,7 +12,16 @@
 
 ### Skills
 
-- HTML/CSS/JAVASCRIPT/MYSQL/NODEJS/EXPRESS/MONGODB/C#/JAVA
+- Node JS 
+- TypeScript
+- JavaScript
+- Mongodb
+- AWS Services
+- Jira
+- Git
+- Redis
+- Express
+- Jest
 
 ### CERTIFICATE
 - JavaScript Algorithms and Data Structure Masterclass from Udemy.
